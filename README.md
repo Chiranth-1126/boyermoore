@@ -1,0 +1,2 @@
+# boyermoore
+algorithm
